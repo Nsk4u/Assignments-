@@ -5,3 +5,5 @@ add = a + b
 mul = a * b
 div = a/b
 print(add, mul, div)
+print("End of program")
+print("welcome to python")
